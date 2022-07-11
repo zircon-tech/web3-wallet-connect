@@ -1,4 +1,4 @@
-# Web3 Wallet Connect
+# Web3 Wagmi Connect
 
 This project is a working example on how to connect web3 to a Metamask wallet. The provided example is built with NextJS / React and leverages the web3 connection with `wagmy` package.
 Feel free to extend the InjectedConnector to other wallets in the ecosystem.
